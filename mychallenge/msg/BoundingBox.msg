@@ -1,0 +1,11 @@
+Header header
+string child_frame_id
+int32 type
+int32 num
+int32[] classes
+float32[] scores
+float32[] xmin
+float32[] ymin
+float32[] xmax
+float32[] ymax
+float32[] orientations

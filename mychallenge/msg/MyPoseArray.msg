@@ -1,0 +1,9 @@
+Header header
+int32[] obs_id
+float32[] x
+float32[] y
+float32[] z
+float32[] orientation
+float32[] l
+float32[] w
+float32[] h
