@@ -1,2 +1,0 @@
-model_checkpoint_path: "/home/xiaoyu/catkin_ws/src/mychallenge/models/lidarmodel2.ckpt"
-all_model_checkpoint_paths: "/home/xiaoyu/catkin_ws/src/mychallenge/models/lidarmodel2.ckpt"
