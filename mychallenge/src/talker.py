@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 
 ## Simple talker demo that published std_msgs/Strings messages
 ## to the 'chatter' topic
